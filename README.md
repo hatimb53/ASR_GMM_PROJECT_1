@@ -1,3 +1,7 @@
+	Features and labels are in npy file formats
+	As file and datasets size are too large so we can not push all files on the github repo
+
+
 # ASR_2018_T01
 ## Data pre processing
 Run ```python import_timit.py --timit=./TIMIT --preprocessed=False```
@@ -29,3 +33,7 @@ If you have already converted the files, set ```--preprocessed=True``` to skip t
 ## Expected:
     - Implement and run train.py and test.py
     - Please feel free to modify any part of the code to implement the solution
+	
+	
+	Features and labels are in npy file formats
+	As file and datasets size are too large so we can not push all files on the github repo
