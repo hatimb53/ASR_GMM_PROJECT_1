@@ -1,5 +1,5 @@
 	Features and labels are in npy file formats
-	As file and datasets size are too large so we can not push all files on the github repo
+	As features file and datasets size are too large so we can not push all files on the github repo
 
 
 # ASR_2018_T01
